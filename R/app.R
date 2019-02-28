@@ -3,7 +3,9 @@ library("shiny")
 library("ggplot2")
 library("dplyr")
 
-ui <- fluidPage()
+ui <- fluidPage(
+  
+)
 
 server <- function(input, output) {
 
